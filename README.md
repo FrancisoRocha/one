@@ -7,3 +7,6 @@ ingresar al sistema
 
 ## Mensaje de confirmacion
 ```console.log("Inicializando");```
+
+## Sitema de puntaje
+```npm initial puntaje```
